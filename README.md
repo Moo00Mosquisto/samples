@@ -10,3 +10,4 @@ Instructor: Omar Shaikh
 
 
 Class GitHub page: https://github.com/csc340-spring-2017
+Class WIKI: https://github.com/csc340-spring-2017/samples/wiki
